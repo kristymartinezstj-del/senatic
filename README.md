@@ -1,2 +1,0 @@
-# senatic
-trabajo de clase 
